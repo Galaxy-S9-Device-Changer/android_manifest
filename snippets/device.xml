@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Samsung Galaxy S9 -->
+  <project path="hardware/samsung" name="Galaxy-S9-Device-Changer/android_hardware_samsung" revision="lineage-20" />
+  <project path="device/samsung/slsi/sepolicy" name="Galaxy-S9-Device-Changer/android_device_samsung_slsi_sepolicy" revision="lineage-20" />
+  <project path="device/samsung/exynos9810-common" name="Galaxy-S9-Device-Changer/android_device_samsung_exynos9810-common" revision="lineage-20" />
+  <project path="kernel/samsung/exynos9810" name="Galaxy-S9-Device-Changer/android_kernel_samsung_exynos9810" revision="lineage-20" />
+  <project path="device/samsung/starlte" name="Galaxy-S9-Device-Changer/android_device_samsung_starlte" revision="lineage-20" />
+  <project path="vendor/samsung/exynos9810-common" name="TheMuppets/proprietary_vendor_samsung_exynos9810-common" revision="lineage-20" />
+  <project path="vendor/samsung/starlte" name="TheMuppets/proprietary_vendor_samsung_starlte" revision="lineage-20" />
+
+</manifest>
