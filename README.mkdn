@@ -5,7 +5,12 @@ Getting started
 ---------------
 
 To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
-
+```
+git config --global credential.helper store
+```
+```
+echo "https://<USERNAME>:<YOUR_GITHUB_TOKEN>@github.com" >> ~/.git-credentials
+```
 ```
 mkdir -p ~/lineage && cd ~/lineage
 ```
